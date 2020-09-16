@@ -2,7 +2,7 @@
 <h3 align="center">i use this to learn java basically</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Jrepxc" alt="Jrepxc" /> </p>
 
-- You're free to hire me, I'm available nearly whenever, just contact me! I prefer to work remotely, but if you're in ON. Canada just hit me up and we can work something out!
+- hi
 
 ### 📫 You can contact me at
   - pls dont
