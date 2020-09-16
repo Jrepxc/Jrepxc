@@ -2,8 +2,6 @@
 <h3 align="center">i use this to learn java basically</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Jrepxc" alt="Jrepxc" /> </p>
 
-- hi
-
 ### 📫 You can contact me at
   - pls dont
 
