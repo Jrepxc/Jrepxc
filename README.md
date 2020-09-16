@@ -1,16 +1,15 @@
-### Hi there 👋
+<h1 align="center">hi :^) </h1>
+<h3 align="center">i use this to learn java basically</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Jrepxc" alt="Jrepxc" /> </p>
 
-<!--
-**Jrepxc/Jrepxc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- You're free to hire me, I'm available nearly whenever, just contact me! I prefer to work remotely, but if you're in ON. Canada just hit me up and we can work something out!
 
-Here are some ideas to get you started:
+### 📫 You can contact me at
+  - pls dont
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚙️ I’m currently working on
+  - A fabric mod with [BubbyRoosh1](https://github.com/BubbyRoosh1)
+
+
+### 🚀 Some future projects I plan to work on are
+  - dont know
