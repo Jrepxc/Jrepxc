@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Jrepxc" alt="Jrepxc" /> </p>
 ### Stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/?username=Jrepxc&theme=cobalt" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/?username=Jrepxc&count_private=true&theme=cobalt" />
 
 ### ⚙️ I’m currently working on
   - A fabric mod with [BubbyRoosh1](https://github.com/BubbyRoosh1)
