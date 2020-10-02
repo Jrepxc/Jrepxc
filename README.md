@@ -8,6 +8,7 @@
 ### ⚙️ I’m currently working on
   - A fabric mod with [BubbyRoosh1](https://github.com/BubbyRoosh1)
   - Momentum, a forge mod with [linustouchtips](https://github.com/linustouchtips)
+  - [My Github Page](https://jrepxc.github.io) 
 
 
 ### 🚀 Some future projects I plan to work on are
