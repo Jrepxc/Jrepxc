@@ -7,7 +7,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=Jrepxc&count_private=true&include_all_commits&theme=gruvbox" />
 
 ### ⚙️ I’m currently working on
-  - A fabric mod with [BubbyRoosh1](https://github.com/BubbyRoosh1)
+  - A <s>fabric</s> forge mod with [BubbyRoosh1](https://github.com/BubbyRoosh1)
   - Momentum, a forge mod with [linustouchtips](https://github.com/linustouchtips)
   - [My Github Page](https://jrepxc.github.io) 
 
