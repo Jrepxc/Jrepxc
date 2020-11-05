@@ -12,6 +12,6 @@
 
 
 ### 🚀 Some future projects I plan to work on are
-  - c++
+  - wip
  
 </p>
