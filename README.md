@@ -9,6 +9,7 @@
 ### ⚙️ I’m currently working on
   - A <s>fabric</s> forge mod with [BubbyRoosh1](https://github.com/BubbyRoosh1)
   - thats it schools hard 
+  - [My website](https://jrepxc.wtf)
 
 
 ### 🚀 Some future projects I plan to work on are
